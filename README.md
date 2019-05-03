@@ -32,7 +32,7 @@ Aufgabe 1:
 Finde für jede Person_ID heraus, wie lange es im Durchschnitt dauert, bis ein bestimmter Kunde noch einmal in diesem Shop einkauft (dabei
 ist zu beachten, dass keine stornierten Bestellungen bei der Analyse berücksichtigt werden). Außerdem ist herauszufinden, ob Personen,
 die ein kurzes Kaufintervall aufweisen, auch im Durchschnitt mehrere oder eine einzige teure Bestellung aufgeben. Besteht
-hierbei auch ein Unterschied bei den Geschlechtern? 
+hierbei auch ein Unterschied bei den Geschlechtern?  
 
 Aufgabe 2:
 In welchen Postleitzahlen, wird im Durchschnitt am meisten eingekauft? Findet man hierbei drastische saisonale Unterschiede? Beispiel:
